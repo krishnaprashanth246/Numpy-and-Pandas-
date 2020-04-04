@@ -1,2 +1,2 @@
-Hello World
-This is a usage of pandas.
+Numpy Exercise &&
+Pandas Exercise with imdb and bikes data sets
